@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GradeVue</string>
+    <string name="title_activity_main">GradeVue</string>
+    <string name="package_name">com.yourorg.gradevue</string>
+    <string name="custom_url_scheme">com.yourorg.gradevue</string>
+</resources>
